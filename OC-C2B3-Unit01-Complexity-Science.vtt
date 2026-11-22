@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.269
+Hello, everyone! I'm Ms. Emma. Welcome to Online C two, Book three.
+
+2
+00:00:05.569 --> 00:00:09.373
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:09.673 --> 00:00:15.100
+Unit one: Complexity Science. Today you will explain order using result-of language.
+
+4
+00:00:15.400 --> 00:00:18.018
+Here is our lesson map. Let's start!
+
+5
+00:00:18.967 --> 00:00:22.049
+Part one: words. You will learn eight new words.
+
+6
+00:00:22.883 --> 00:00:24.778
+Complex adaptive system.
+
+7
+00:00:25.783 --> 00:00:31.254
+Complex adaptive system means a network of agents that learn and change in response to one another.
+
+8
+00:00:31.850 --> 00:00:34.720
+A rainforest is a complex adaptive system.
+
+9
+00:00:35.317 --> 00:00:38.817
+Your turn. Say: Complex adaptive system.
+
+10
+00:00:41.667 --> 00:00:43.527
+Complex adaptive system.
+
+11
+00:00:44.283 --> 00:00:45.366
+Emergence.
+
+12
+00:00:46.350 --> 00:00:50.056
+Emergence means new patterns arising from simple interactions.
+
+13
+00:00:50.650 --> 00:00:53.207
+The flock's shape is an example of emergence.
+
+14
+00:00:53.817 --> 00:00:56.295
+Your turn. Say: Emergence.
+
+15
+00:00:59.133 --> 00:01:00.297
+Emergence.
+
+16
+00:01:01.050 --> 00:01:02.515
+Self-organization.
+
+17
+00:01:03.517 --> 00:01:07.026
+Self-organization means order forming without a central controller.
+
+18
+00:01:07.617 --> 00:01:11.207
+Self-organization explains how termites build great mounds.
+
+19
+00:01:11.817 --> 00:01:15.108
+Your turn. Say: Self-organization.
+
+20
+00:01:17.967 --> 00:01:19.560
+Self-organization.
+
+21
+00:01:20.317 --> 00:01:22.038
+Nonlinear dynamics.
+
+22
+00:01:23.050 --> 00:01:27.685
+Nonlinear dynamics means behaviour in which small changes can have large effects.
+
+23
+00:01:28.283 --> 00:01:32.640
+Nonlinear dynamics make long-range weather forecasts unreliable.
+
+24
+00:01:33.250 --> 00:01:36.715
+Your turn. Say: Nonlinear dynamics.
+
+25
+00:01:39.567 --> 00:01:41.241
+Nonlinear dynamics.
+
+26
+00:01:41.983 --> 00:01:43.054
+Attractor.
+
+27
+00:01:44.050 --> 00:01:47.977
+Attractor means a stable state toward which a system tends to settle.
+
+28
+00:01:48.583 --> 00:01:51.674
+The economy returned to its old attractor after the shock.
+
+29
+00:01:52.283 --> 00:01:54.854
+Your turn. Say: Attractor.
+
+30
+00:01:57.700 --> 00:01:58.678
+Attractor.
+
+31
+00:01:59.417 --> 00:02:00.476
+Feedback.
+
+32
+00:02:01.483 --> 00:02:05.364
+Feedback means information about results that changes the next action.
+
+33
+00:02:05.950 --> 00:02:08.844
+Positive feedback accelerated the collapse.
+
+34
+00:02:09.450 --> 00:02:11.998
+Your turn. Say: Feedback.
+
+35
+00:02:14.833 --> 00:02:15.846
+Feedback.
+
+36
+00:02:16.583 --> 00:02:17.747
+Resilience.
+
+37
+00:02:18.750 --> 00:02:22.247
+Resilience means the capacity to absorb shocks and recover.
+
+38
+00:02:22.850 --> 00:02:25.593
+Diverse crops give a farm greater resilience.
+
+39
+00:02:26.183 --> 00:02:29.300
+Your turn. Say: Resilience.
+
+40
+00:02:32.167 --> 00:02:33.446
+Resilience.
+
+41
+00:02:34.183 --> 00:02:35.498
+Phase transition.
+
+42
+00:02:36.483 --> 00:02:40.724
+Phase transition means a sudden change from one state of a system to another.
+
+43
+00:02:41.317 --> 00:02:43.827
+Water freezing is a classic phase transition.
+
+44
+00:02:44.417 --> 00:02:47.499
+Your turn. Say: Phase transition.
+
+45
+00:02:50.333 --> 00:02:51.741
+Phase transition.
+
+46
+00:02:52.533 --> 00:02:56.556
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:02:57.417 --> 00:03:01.460
+Visal, how can a flock of birds move so perfectly with no leader?
+
+48
+00:03:02.550 --> 00:03:12.981
+Order often emerges from apparent chaos. Each bird follows simple local rules, and the pattern arises from those interactions.
+
+49
+00:03:14.083 --> 00:03:15.909
+So nobody designs the pattern?
+
+50
+00:03:17.017 --> 00:03:24.058
+Correct. Self-organization results from feedback between neighbours, not from central command.
+
+51
+00:03:25.150 --> 00:03:27.126
+Can such systems suddenly break?
+
+52
+00:03:28.217 --> 00:03:35.664
+Yes. A phase transition can stem from a tiny change, which is why resilience matters so much.
+
+53
+00:03:36.800 --> 00:03:38.149
+Part three: grammar.
+
+54
+00:03:38.983 --> 00:03:43.398
+Grammar focus: Result-of language (arises from, emerges from).
+
+55
+00:03:43.698 --> 00:03:44.803
+Look at the pattern.
+
+56
+00:03:45.517 --> 00:03:48.085
+Order often emerges from apparent chaos.
+
+57
+00:03:48.983 --> 00:03:52.330
+Self-organization results from feedback between neighbours.
+
+58
+00:03:53.217 --> 00:03:56.412
+A phase transition can stem from a tiny change.
+
+59
+00:03:57.367 --> 00:04:05.476
+Link an outcome to its source with arise from, emerge from, result from or stem from. The preposition is always 'from': order emerges from chaos.
+
+60
+00:04:06.217 --> 00:04:10.030
+Be careful! Don't say: Order emerges of chaos.
+
+61
+00:04:11.967 --> 00:04:14.396
+Say: Order emerges from chaos.
+
+62
+00:04:14.696 --> 00:04:16.068
+emerge from (not 'of').
+
+63
+00:04:16.867 --> 00:04:19.600
+Part four: reading. Read and listen.
+
+64
+00:04:20.400 --> 00:04:21.900
+Order Without a Ruler.
+
+65
+00:04:22.200 --> 00:04:26.870
+Complexity science studies systems whose behaviour cannot be predicted from their parts alone.
+
+66
+00:04:27.867 --> 00:04:34.603
+A flock, an ecosystem and a market are each a complex adaptive system, in which many agents adjust to one another.
+
+67
+00:04:35.600 --> 00:04:42.232
+Order often emerges from apparent chaos, because simple local rules and feedback produce large-scale patterns.
+
+68
+00:04:43.233 --> 00:04:49.076
+Nonlinear dynamics mean that a small cause can trigger a phase transition, so prediction is limited.
+
+69
+00:04:50.067 --> 00:04:53.227
+Resilience, not control, is therefore the realistic goal.
+
+70
+00:04:54.333 --> 00:04:58.590
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:04:59.450 --> 00:05:01.717
+Order emerges blank apparent chaos.
+
+72
+00:05:02.017 --> 00:05:05.322
+A, from. B, of. C, by.
+
+73
+00:05:08.867 --> 00:05:10.518
+The answer is A: from.
+
+74
+00:05:11.683 --> 00:05:14.635
+Order forming without a central controller is blank.
+
+75
+00:05:14.935 --> 00:05:19.064
+A, attractor. B, self-organization. C, feedback.
+
+76
+00:05:22.600 --> 00:05:25.285
+The answer is B: self-organization.
+
+77
+00:05:26.450 --> 00:05:29.552
+A sudden change from one state to another is a blank.
+
+78
+00:05:29.852 --> 00:05:34.133
+A, phase transition. B, resilience. C, emergence.
+
+79
+00:05:37.667 --> 00:05:39.875
+The answer is A: phase transition.
+
+80
+00:05:41.017 --> 00:05:42.633
+Choose the correct sentence.
+
+81
+00:05:42.933 --> 00:05:49.640
+A, Order results of local rules.. B, Order results from local rules.. C, Order results by local rules..
+
+82
+00:05:53.200 --> 00:05:56.906
+The answer is B: Order results from local rules..
+
+83
+00:05:58.050 --> 00:06:01.269
+According to the reading, the realistic goal is…
+
+84
+00:06:01.569 --> 00:06:05.721
+A, total control. B, resilience. C, prediction.
+
+85
+00:06:09.267 --> 00:06:11.475
+The answer is B: resilience.
+
+86
+00:06:12.667 --> 00:06:15.865
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:16.717 --> 00:06:19.993
+Can you think of a system in nature that exhibits self-organization?
+
+88
+00:06:36.783 --> 00:06:38.272
+Now listen to Visal.
+
+89
+00:06:38.572 --> 00:07:03.381
+An ant colony is a good example. No ant gives orders, yet trails, nests and food storage emerge from simple local rules, such as following a chemical scent. The colony adapts when food runs out, because feedback strengthens successful trails. Its intelligence arises from interaction, not from any single leader.
+
+90
+00:07:03.681 --> 00:07:05.530
+Excellent answer, Visal!
+
+91
+00:07:06.417 --> 00:07:12.099
+Great work! Now you can use eight new words and result-of language (arises from, emerges from).
+
+92
+00:07:12.399 --> 00:07:16.851
+Today's value is systems thinking. See how the parts connect to make the whole.
+
+93
+00:07:17.151 --> 00:07:19.525
+See you in Unit two. Goodbye!
+
+94
+00:07:19.825 --> 00:07:22.663
+Thank you, Ms. Emma! Bye, everyone!
+

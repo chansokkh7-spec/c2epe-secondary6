@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.130
+Hello, everyone! I'm Ms. Emma. Welcome to Online C two, Book three.
+
+2
+00:00:05.430 --> 00:00:08.653
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:08.953 --> 00:00:15.356
+Unit two: Network Theory. Today you will describe structure using represented as / modeled as.
+
+4
+00:00:15.656 --> 00:00:18.331
+Here is our lesson map. Let's start!
+
+5
+00:00:19.267 --> 00:00:22.267
+Part one: words. You will learn eight new words.
+
+6
+00:00:23.117 --> 00:00:23.897
+Node.
+
+7
+00:00:24.883 --> 00:00:28.636
+Node means a point in a network, such as a person or computer.
+
+8
+00:00:29.250 --> 00:00:31.865
+Each airport is a node in the global network.
+
+9
+00:00:32.450 --> 00:00:35.114
+Your turn. Say: Node.
+
+10
+00:00:37.967 --> 00:00:38.945
+Node.
+
+11
+00:00:39.683 --> 00:00:40.545
+Edge.
+
+12
+00:00:41.550 --> 00:00:44.130
+Edge means a connection between two nodes.
+
+13
+00:00:44.717 --> 00:00:47.448
+An edge may represent friendship or trade.
+
+14
+00:00:48.050 --> 00:00:50.354
+Your turn. Say: Edge.
+
+15
+00:00:53.200 --> 00:00:53.992
+Edge.
+
+16
+00:00:54.750 --> 00:00:56.378
+Network topology.
+
+17
+00:00:57.383 --> 00:01:00.973
+Network topology means the pattern in which nodes are connected.
+
+18
+00:01:01.583 --> 00:01:05.104
+Network topology determines how fast news spreads.
+
+19
+00:01:05.717 --> 00:01:09.112
+Your turn. Say: Network topology.
+
+20
+00:01:11.967 --> 00:01:13.560
+Network topology.
+
+21
+00:01:14.317 --> 00:01:14.969
+Hub.
+
+22
+00:01:15.983 --> 00:01:18.854
+Hub means a node with many more connections than average.
+
+23
+00:01:19.450 --> 00:01:22.030
+Dubai is a hub for international flights.
+
+24
+00:01:22.617 --> 00:01:24.654
+Your turn. Say: Hub.
+
+25
+00:01:27.500 --> 00:01:28.327
+Hub.
+
+26
+00:01:29.083 --> 00:01:30.305
+Centrality.
+
+27
+00:01:31.317 --> 00:01:35.348
+Centrality means a measure of how important a node is within a network.
+
+28
+00:01:35.950 --> 00:01:39.215
+Centrality identifies the most influential person.
+
+29
+00:01:39.817 --> 00:01:42.399
+Your turn. Say: Centrality.
+
+30
+00:01:45.233 --> 00:01:46.490
+Centrality.
+
+31
+00:01:47.250 --> 00:01:48.924
+Small-world network.
+
+32
+00:01:49.917 --> 00:01:54.784
+Small-world network means a network where any two nodes are connected by a few steps.
+
+33
+00:01:55.383 --> 00:01:59.031
+A small-world network explains 'six degrees of separation'.
+
+34
+00:01:59.617 --> 00:02:02.699
+Your turn. Say: Small-world network.
+
+35
+00:02:05.533 --> 00:02:07.858
+Small-world network.
+
+36
+00:02:08.617 --> 00:02:10.094
+Scale-free network.
+
+37
+00:02:11.083 --> 00:02:15.788
+Scale-free network means a network with a few huge hubs and many small nodes.
+
+38
+00:02:16.383 --> 00:02:19.486
+The internet is often described as a scale-free network.
+
+39
+00:02:20.083 --> 00:02:23.397
+Your turn. Say: Scale-free network.
+
+40
+00:02:26.233 --> 00:02:28.244
+Scale-free network.
+
+41
+00:02:28.983 --> 00:02:30.054
+Connectivity.
+
+42
+00:02:31.050 --> 00:02:34.060
+Connectivity means the degree to which nodes are linked.
+
+43
+00:02:34.650 --> 00:02:37.578
+Poor connectivity isolates rural communities.
+
+44
+00:02:38.183 --> 00:02:41.242
+Your turn. Say: Connectivity.
+
+45
+00:02:44.100 --> 00:02:45.368
+Connectivity.
+
+46
+00:02:46.167 --> 00:02:49.539
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:02:50.383 --> 00:02:55.497
+Visal, my professor says a village can be drawn as dots and lines. Isn't that too simple?
+
+48
+00:02:56.583 --> 00:03:05.064
+A social system can be represented as a network. Each person is modelled as a node and each relationship as an edge.
+
+49
+00:03:06.150 --> 00:03:07.674
+What do we learn from that?
+
+50
+00:03:08.783 --> 00:03:20.526
+Centrality shows who matters most, and topology shows how quickly information travels. Hubs are often described as the system's key leverage points.
+
+51
+00:03:21.617 --> 00:03:22.862
+Is it fragile, then?
+
+52
+00:03:23.950 --> 00:03:31.940
+A scale-free network is robust to random failure, yet it can be modelled as vulnerable to the loss of its hubs.
+
+53
+00:03:33.100 --> 00:03:34.496
+Part three: grammar.
+
+54
+00:03:35.350 --> 00:03:39.021
+Grammar focus: Represented as and modeled as clauses.
+
+55
+00:03:39.321 --> 00:03:40.543
+Look at the pattern.
+
+56
+00:03:41.250 --> 00:03:44.271
+A social system can be represented as a network.
+
+57
+00:03:45.183 --> 00:03:47.206
+Each person is modelled as a node.
+
+58
+00:03:48.117 --> 00:03:51.881
+Hubs are often described as the system's key leverage points.
+
+59
+00:03:52.833 --> 00:04:03.160
+Use passive + as: represented as, modelled as, described as, regarded as. 'As' introduces the category; do not add 'to be': modelled as a node (not 'as to be').
+
+60
+00:04:03.917 --> 00:04:08.450
+Be careful! Don't say: A system can represent as a network.
+
+61
+00:04:10.400 --> 00:04:13.688
+Say: A system can be represented as a network.
+
+62
+00:04:13.988 --> 00:04:16.638
+Passive: be + past participle.
+
+63
+00:04:17.433 --> 00:04:20.097
+Part four: reading. Read and listen.
+
+64
+00:04:20.900 --> 00:04:22.435
+Seeing the Connections.
+
+65
+00:04:22.735 --> 00:04:26.883
+Network theory studies relationships rather than isolated objects.
+
+66
+00:04:27.867 --> 00:04:34.266
+A social system can be represented as a network, with people modelled as nodes and their relationships as edges.
+
+67
+00:04:35.267 --> 00:04:41.574
+The topology, or pattern of connections, determines how quickly information, disease or money moves.
+
+68
+00:04:42.567 --> 00:04:50.905
+Many real networks are scale-free: a few hubs hold most connections, so they are robust to random failure but vulnerable to targeted attack.
+
+69
+00:04:51.900 --> 00:04:55.931
+Centrality measures therefore help policymakers decide where to intervene.
+
+70
+00:04:57.033 --> 00:05:00.942
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:05:01.783 --> 00:05:04.828
+A social system can be represented blank a network.
+
+72
+00:05:05.128 --> 00:05:08.282
+A, as. B, to. C, like to.
+
+73
+00:05:11.833 --> 00:05:13.682
+The answer is A: as.
+
+74
+00:05:14.817 --> 00:05:17.362
+A connection between two nodes is an blank.
+
+75
+00:05:17.662 --> 00:05:20.712
+A, edge. B, hub. C, attractor.
+
+76
+00:05:24.267 --> 00:05:25.953
+The answer is A: edge.
+
+77
+00:05:27.117 --> 00:05:30.242
+A node with many more connections than average is a blank.
+
+78
+00:05:30.542 --> 00:05:33.801
+A, hub. B, topology. C, edge.
+
+79
+00:05:37.367 --> 00:05:38.937
+The answer is A: hub.
+
+80
+00:05:40.083 --> 00:05:41.769
+Choose the correct sentence.
+
+81
+00:05:42.069 --> 00:05:47.964
+A, People are modelled as nodes.. B, People are modelled to nodes.. C, People modelled as be nodes..
+
+82
+00:05:51.500 --> 00:05:54.498
+The answer is A: People are modelled as nodes..
+
+83
+00:05:55.650 --> 00:05:59.020
+According to the reading, scale-free networks are vulnerable to…
+
+84
+00:05:59.320 --> 00:06:03.844
+A, random failure. B, targeted attack. C, no failure.
+
+85
+00:06:07.400 --> 00:06:09.852
+The answer is B: targeted attack.
+
+86
+00:06:11.067 --> 00:06:14.508
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:15.350 --> 00:06:18.673
+What is an example of a network you interact with every day?
+
+88
+00:06:35.483 --> 00:06:37.018
+Now listen to Visal.
+
+89
+00:06:37.318 --> 00:06:58.738
+I interact with a social media network every day. Each user can be modelled as a node and each follow or friendship as an edge. A few accounts act as hubs with millions of followers, so information spreads through them very quickly. That structure explains why a single post can reach a whole country within hours.
+
+90
+00:06:59.038 --> 00:07:00.956
+Excellent answer, Visal!
+
+91
+00:07:01.850 --> 00:07:06.790
+Great work! Now you can use eight new words and represented as and modeled as clauses.
+
+92
+00:07:07.090 --> 00:07:11.576
+Today's value is analytical thinking. Look for the pattern underneath the surface.
+
+93
+00:07:11.876 --> 00:07:14.238
+See you in Unit three. Goodbye!
+
+94
+00:07:14.538 --> 00:07:16.993
+Thank you, Ms. Emma! Bye, everyone!
+
