@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:04.758
+Hello, everyone! I'm Ms. Emma. Welcome to Online C two, Book three.
+
+2
+00:00:05.058 --> 00:00:08.328
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:08.628 --> 00:00:15.960
+Unit twenty-five: Data Governance. Today you will reason about risk using if + were to (formal hypothesis).
+
+4
+00:00:16.260 --> 00:00:18.842
+Here is our lesson map. Let's start!
+
+5
+00:00:19.800 --> 00:00:23.126
+Part one: words. You will learn eight new words.
+
+6
+00:00:23.983 --> 00:00:25.217
+Data governance.
+
+7
+00:00:26.217 --> 00:00:30.608
+Data governance means the rules for how data is collected, stored and used.
+
+8
+00:00:31.217 --> 00:00:34.458
+Data governance defines who may access patient records.
+
+9
+00:00:35.050 --> 00:00:37.876
+Your turn. Say: Data governance.
+
+10
+00:00:40.733 --> 00:00:42.013
+Data governance.
+
+11
+00:00:42.750 --> 00:00:43.844
+Privacy.
+
+12
+00:00:44.850 --> 00:00:48.336
+Privacy means the right to keep personal information protected.
+
+13
+00:00:48.950 --> 00:00:51.251
+Privacy is a basic condition of freedom.
+
+14
+00:00:51.850 --> 00:00:54.166
+Your turn. Say: Privacy.
+
+15
+00:00:57.000 --> 00:00:57.943
+Privacy.
+
+16
+00:00:58.683 --> 00:00:59.603
+Consent.
+
+17
+00:01:00.617 --> 00:01:03.266
+Consent means voluntary and informed agreement.
+
+18
+00:01:03.850 --> 00:01:07.312
+Consent must be clear, not buried in small print.
+
+19
+00:01:07.917 --> 00:01:10.023
+Your turn. Say: Consent.
+
+20
+00:01:12.867 --> 00:01:13.833
+Consent.
+
+21
+00:01:14.583 --> 00:01:15.747
+Regulation.
+
+22
+00:01:16.750 --> 00:01:19.597
+Regulation means official rules governing conduct.
+
+23
+00:01:20.183 --> 00:01:22.996
+Regulation requires firms to report breaches.
+
+24
+00:01:23.583 --> 00:01:26.085
+Your turn. Say: Regulation.
+
+25
+00:01:28.933 --> 00:01:30.190
+Regulation.
+
+26
+00:01:30.950 --> 00:01:31.951
+Ownership.
+
+27
+00:01:32.950 --> 00:01:35.785
+Ownership means the legal right to control something.
+
+28
+00:01:36.383 --> 00:01:38.836
+The ownership of personal data is disputed.
+
+29
+00:01:39.450 --> 00:01:42.300
+Your turn. Say: Ownership.
+
+30
+00:01:45.133 --> 00:01:46.053
+Ownership.
+
+31
+00:01:46.817 --> 00:01:47.992
+Security.
+
+32
+00:01:48.983 --> 00:01:52.388
+Security means protection against unauthorised access.
+
+33
+00:01:52.983 --> 00:01:55.041
+Weak security allowed the breach.
+
+34
+00:01:55.650 --> 00:01:58.244
+Your turn. Say: Security.
+
+35
+00:02:01.100 --> 00:02:02.264
+Security.
+
+36
+00:02:03.017 --> 00:02:04.389
+Accountability.
+
+37
+00:02:05.383 --> 00:02:09.148
+Accountability means the obligation to answer for one's actions.
+
+38
+00:02:09.750 --> 00:02:12.644
+Accountability means firms must report leaks.
+
+39
+00:02:13.250 --> 00:02:16.053
+Your turn. Say: Accountability.
+
+40
+00:02:18.900 --> 00:02:20.203
+Accountability.
+
+41
+00:02:20.950 --> 00:02:21.719
+Trust.
+
+42
+00:02:22.717 --> 00:02:26.365
+Trust means confidence in the reliability of a person or system.
+
+43
+00:02:26.950 --> 00:02:29.495
+Trust is easy to lose and hard to rebuild.
+
+44
+00:02:30.083 --> 00:02:32.306
+Your turn. Say: Trust.
+
+45
+00:02:35.167 --> 00:02:35.936
+Trust.
+
+46
+00:02:36.733 --> 00:02:40.338
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:02:41.183 --> 00:02:47.052
+Visal, apps ask for my location, contacts and photos. What is the worst that could happen?
+
+48
+00:02:48.150 --> 00:02:55.862
+If data were to leak, trust would collapse, and individuals could be exposed to fraud or harassment.
+
+49
+00:02:56.950 --> 00:02:58.624
+Would the company be punished?
+
+50
+00:02:59.717 --> 00:03:08.046
+Under strong regulation, yes. If a firm were to hide a breach, it would face heavy fines, and executives could be held accountable.
+
+51
+00:03:09.150 --> 00:03:10.499
+And who owns the data?
+
+52
+00:03:11.583 --> 00:03:22.386
+That is disputed. If individuals were to own their data, they could demand payment or deletion, but firms would argue that processing creates value.
+
+53
+00:03:23.533 --> 00:03:25.196
+Part three: grammar.
+
+54
+00:03:26.050 --> 00:03:29.872
+Grammar focus: If plus were to (formal hypothesis).
+
+55
+00:03:30.172 --> 00:03:31.406
+Look at the pattern.
+
+56
+00:03:32.117 --> 00:03:34.615
+If data were to leak, trust would collapse.
+
+57
+00:03:35.517 --> 00:03:38.944
+If a firm were to hide a breach, it would face heavy fines.
+
+58
+00:03:39.850 --> 00:03:43.440
+If individuals were to own their data, they could demand deletion.
+
+59
+00:03:44.400 --> 00:03:55.795
+If + subject + were to + base verb imagines an unlikely or formal event: If data were to leak, trust would collapse. Use 'were' for all subjects; the result clause takes would/could.
+
+60
+00:03:56.550 --> 00:04:00.445
+Be careful! Don't say: If data would leak, trust collapses.
+
+61
+00:04:02.400 --> 00:04:05.235
+Say: If data were to leak, trust would collapse.
+
+62
+00:04:05.535 --> 00:04:07.059
+If + were to … would.
+
+63
+00:04:07.867 --> 00:04:10.310
+Part four: reading. Read and listen.
+
+64
+00:04:11.100 --> 00:04:12.380
+Who Owns Your Data?.
+
+65
+00:04:12.680 --> 00:04:17.826
+Digital services run on personal data, from our location to our habits and relationships.
+
+66
+00:04:18.833 --> 00:04:25.883
+Data governance sets rules for collection, storage and use, and it rests on privacy, informed consent and accountability.
+
+67
+00:04:26.867 --> 00:04:32.883
+If data were to leak, trust would collapse, and individuals might suffer fraud, discrimination or harassment.
+
+68
+00:04:33.867 --> 00:04:39.558
+If regulators were to demand transparency and heavy penalties, firms would invest more in security.
+
+69
+00:04:40.567 --> 00:04:46.943
+Whether data should be owned like property, or protected like a right, remains one of the central questions of the digital age.
+
+70
+00:04:48.033 --> 00:04:52.047
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:04:52.883 --> 00:04:55.545
+If data blank to leak, trust would collapse.
+
+72
+00:04:55.845 --> 00:04:59.196
+A, were. B, was. C, is.
+
+73
+00:05:02.733 --> 00:05:04.605
+The answer is A: were.
+
+74
+00:05:05.750 --> 00:05:08.365
+Voluntary and informed agreement is blank.
+
+75
+00:05:08.665 --> 00:05:12.539
+A, consent. B, ownership. C, security.
+
+76
+00:05:16.100 --> 00:05:17.960
+The answer is A: consent.
+
+77
+00:05:19.117 --> 00:05:22.033
+The obligation to answer for one's actions is blank.
+
+78
+00:05:22.333 --> 00:05:26.103
+A, privacy. B, accountability. C, trust.
+
+79
+00:05:29.667 --> 00:05:31.945
+The answer is B: accountability.
+
+80
+00:05:33.083 --> 00:05:34.700
+Choose the correct sentence.
+
+81
+00:05:35.000 --> 00:05:43.866
+A, If firms were to hide leaks, they would be fined.. B, If firms was to hide leaks, they will be fined.. C, If firms were hide leaks, they would fined..
+
+82
+00:05:47.400 --> 00:05:51.153
+The answer is A: If firms were to hide leaks, they would be fined..
+
+83
+00:05:52.317 --> 00:05:56.464
+According to the reading, strong penalties would make firms invest more in…
+
+84
+00:05:56.764 --> 00:06:01.532
+A, advertising. B, security. C, ownership.
+
+85
+00:06:05.067 --> 00:06:06.997
+The answer is B: security.
+
+86
+00:06:08.200 --> 00:06:11.363
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:12.217 --> 00:06:14.518
+Who should own the data people create online?
+
+88
+00:06:31.317 --> 00:06:32.782
+Now listen to Visal.
+
+89
+00:06:33.082 --> 00:06:55.721
+I think individuals should have strong control over the data they create, even if companies hold it for specific services. People should know what is collected, be able to correct or delete it, and decide whether it can be shared. If firms were to own it outright, the incentive to protect privacy would weaken. Control and accountability protect trust.
+
+90
+00:06:56.021 --> 00:06:57.695
+Excellent answer, Visal!
+
+91
+00:06:58.583 --> 00:07:03.755
+Great work! Now you can use eight new words and if plus were to (formal hypothesis).
+
+92
+00:07:04.055 --> 00:07:08.251
+Today's value is digital trust. Protect the trust that others place in you.
+
+93
+00:07:08.551 --> 00:07:11.622
+See you in Unit twenty-six. Goodbye!
+
+94
+00:07:11.922 --> 00:07:14.888
+Thank you, Ms. Emma! Bye, everyone!
+
